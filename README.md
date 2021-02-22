@@ -1,7 +1,7 @@
 Eine Flutter App die deinen Body-Mass-Index berechnen kann.
 
 ## ⏰ Projekt Fertiggestellt:
-15.02.2021
+14.02.2021
 
 ## 📚 Projekt Informationen (lib Folder):
 - Jede Kachel verwendet die ReusableCard Klasse die in einem seperaten Dart File zu finden ist.
