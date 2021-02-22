@@ -15,4 +15,4 @@ Eine Flutter App die deinen Body-Mass-Index berechnen kann.
 - Dart Enums
 - Dart Maps
 
-App Inspiration: ![Klick hier](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+App Inspiration: https://dribbble.com/shots/4585382-Simple-BMI-Calculator
