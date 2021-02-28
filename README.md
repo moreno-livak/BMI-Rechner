@@ -6,7 +6,7 @@
 ## Features
 - Berechnet deinen BMI
 - Gibt dir Feedback zu deinem BMI
-- 
+
 ## Setup & Installation
 - Einfach das Projekt von GitHub kopieren und mit Version Control öffnen
 
