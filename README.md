@@ -1,13 +1,22 @@
-Eine Flutter App die deinen Body-Mass-Index berechnen kann.
+## Overview
+- Eine Flutter App die deinen Body-Mass-Index berechnen kann
+![](Screenshots%20(Fertige%20App)/Screenshot-bmi.png)
 
-## ⏰ Projekt Fertiggestellt:
-14.02.2021
+## Features
+- Berechnet deinen BMI
+- Gibt dir Feedback zu deinem BMI
+- 
+## Setup & Installation
+- Einfach das Projekt von GitHub kopieren und mit Version Control öffnen
 
-## 📚 Projekt Informationen (lib Folder):
+## Usage & Details
 - Jede Kachel verwendet die ReusableCard Klasse die in einem seperaten Dart File zu finden ist.
 - Jeder verwendeter const Wert ist auch in einen seperaten Dart File zu finden.
-- Im calculator_Brain wird der BMI mit den final Werten "weight" und "hight" (die in der input_page definiert werden) berechnet.
+- Im calculator_Brain wird der BMI mit den final Werten "weight" und "hight" (die in der input_page definiert werden) berechnet
 
-App Inspiration: https://dribbble.com/shots/4585382-Simple-BMI-Calculator
+## ChangeLog & Roadmap
+- Fertiggestellt am 14.02.2021
+- In Zukunft wird die Anpassung an verschiedene Display Größen verbessert
 
-![](Screenshots%20(Fertige%20App)/Screenshot-bmi.png)
+## Credits
+- Inspiration: https://dribbble.com/shots/4585382-Simple-BMI-Calculator
