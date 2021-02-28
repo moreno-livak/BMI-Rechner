@@ -9,3 +9,5 @@ Eine Flutter App die deinen Body-Mass-Index berechnen kann.
 - Im calculator_Brain wird der BMI mit den final Werten "weight" und "hight" (die in der input_page definiert werden) berechnet.
 
 App Inspiration: https://dribbble.com/shots/4585382-Simple-BMI-Calculator
+
+![](Screenshots%20(Fertige%20App)/Screenshot-bmi.png)
